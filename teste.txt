@@ -1,1 +1,2 @@
 Dia 1 - Primeiro exemplo
+Dia 2 - Alterando a branch da outra máquina
